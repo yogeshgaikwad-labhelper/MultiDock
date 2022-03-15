@@ -10,9 +10,9 @@ MultiDock 1.0 is easy molecular docking and screening tool which uses AutoDock V
 
 Requirements:
 
-    Autodock Vina
-    MGL Tools
-    Openbabel
+    Autodock Vina 1.1.2
+    MGL Tools 1.5.6
+    Openbabel 2.4.1
     Pymol for visualization
 
 License: To license key email to jlabhelper@gmail.com
