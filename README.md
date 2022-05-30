@@ -17,6 +17,4 @@ Requirements:
 
 License: To license key email to jlabhelper@gmail.com
 
-Pricing per license: Rs. 1600/- ($25)
 
-For Students: Rs. 1500/- ($22)
