@@ -1,5 +1,5 @@
 # MultiDock
-MultiDock 1.0 is easy molecular docking and screening tool which uses AutoDock Vina in the background. Some of the features are,
+MultiDock 1.2 is easy molecular docking and screening tool which uses AutoDock Vina in the background. Some of the features are,
 
     We can make personal ligand database or import from other sources.
     Multiple protein receptor and multiple ligand can be docked on single click.
