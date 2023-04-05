@@ -11,6 +11,7 @@ MultiDock 2.0 is easy molecular docking and screening tool which uses AutoDock V
     Export the molecules in pdb or mol files. Combine receptor+ligand files for further analysis.
     Refine the results on the basis of on-target and off-target ligands.
     Calculations of Ki and LE.
+    ADME properties of ligands.
 
 Requirements:
 
